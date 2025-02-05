@@ -1,1 +1,1 @@
-# odin-project
+The project is about creating an entire web page from a design, provided in the form of images. It displays HTML and CSS knowledge and skills.
